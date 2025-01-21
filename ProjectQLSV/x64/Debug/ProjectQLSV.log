@@ -1,8 +1,8 @@
 ﻿  ProjectQLSV.cpp
-D:\Coding Space\C++\ProjectQLSV\ProjectQLSV\ProjectQLSV.cpp(185,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-D:\Coding Space\C++\ProjectQLSV\ProjectQLSV\ProjectQLSV.cpp(205,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-D:\Coding Space\C++\ProjectQLSV\ProjectQLSV\ProjectQLSV.cpp(208,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-D:\Coding Space\C++\ProjectQLSV\ProjectQLSV\ProjectQLSV.cpp(351,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-D:\Coding Space\C++\ProjectQLSV\ProjectQLSV\ProjectQLSV.cpp(354,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-D:\Coding Space\C++\ProjectQLSV\ProjectQLSV\ProjectQLSV.cpp(357,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-  ProjectQLSV.vcxproj -> D:\Coding Space\C++\ProjectQLSV\x64\Debug\ProjectQLSV.exe
+D:\Coding Space\C++\Student Management Project\ProjectQLSV\ProjectQLSV.cpp(185,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Coding Space\C++\Student Management Project\ProjectQLSV\ProjectQLSV.cpp(205,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Coding Space\C++\Student Management Project\ProjectQLSV\ProjectQLSV.cpp(208,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Coding Space\C++\Student Management Project\ProjectQLSV\ProjectQLSV.cpp(351,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Coding Space\C++\Student Management Project\ProjectQLSV\ProjectQLSV.cpp(354,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Coding Space\C++\Student Management Project\ProjectQLSV\ProjectQLSV.cpp(357,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ProjectQLSV.vcxproj -> D:\Coding Space\C++\Student Management Project\x64\Debug\ProjectQLSV.exe
